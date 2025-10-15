@@ -11,7 +11,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           {/* Logo and Title */}
-          <Link to="/" className="flex items-center space-x-3">
+          <Link to="/dashboard" className="flex items-center space-x-3">
             <div className="bg-blue-100 rounded-full p-2">
               <Building2 className="w-6 h-6 text-blue-600" />
             </div>
