@@ -24,8 +24,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/dist/index.html",
-      "status": 200
+      "dest": "/dist/index.html"
     }
   ]
 }
